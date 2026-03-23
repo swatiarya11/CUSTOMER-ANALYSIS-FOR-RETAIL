@@ -4,13 +4,13 @@ This project focuses on analyzing retail store transaction data to uncover meani
 The objective of this project is to perform Exploratory Data Analysis (EDA) and generate insights from multiple datasets, including customers, products, and transactions. The analysis helps in understanding purchasing patterns, top-performing categories, and key revenue drivers.
 ### Dataset Description
 The project uses three datasets:
-Customer Data – Contains customer demographics (Customer_ID, gender, DOB, city)
-Product Data – Includes product categories and sub-categories
+Customer Data – Contains customer demographics (Customer_ID, gender, DOB, city), 
+Product Data – Includes product categories and sub-categories, 
 Transaction Data – Contains transaction details like quantity, price, tax, and total amount
 ### Tools & Technologies Used
-Python
-Pandas – Data manipulation
-NumPy – Numerical operations
+Python, 
+Pandas – Data manipulation, 
+NumPy – Numerical operations, 
 Matplotlib & Seaborn – Data visualization
 ### Key Insights
 Transaction Period: Identified the overall time range of transactions
