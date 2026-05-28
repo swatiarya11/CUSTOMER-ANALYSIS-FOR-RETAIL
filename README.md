@@ -168,5 +168,7 @@ Possible future enhancements for this project:
 * Predictive Analytics for Customer Retention
 
 ---
-####👩‍💻 Author
-Swati Arya
+# 👩‍💻 Author
+
+# _Swati Arya_
+
